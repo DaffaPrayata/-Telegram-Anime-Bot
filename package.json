@@ -1,0 +1,16 @@
+{
+  "name": "telegram-ani-bot",
+  "version": "1.0.0",
+  "description": "Telegram remote control untuk ani-cli di laptop lokal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-pty": "^1.1.0",
+    "telegraf": "^4.16.3"
+  }
+}
