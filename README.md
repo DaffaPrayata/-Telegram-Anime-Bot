@@ -1,4 +1,4 @@
-# 🎌 Telegram Anime Bot — Setup Guide
+#  Telegram Anime Bot — Setup Guide
 
 Bot Telegram untuk nonton anime via `ani-cli` dan `mpv` langsung dari laptop lo. Telegram jadi remote control.
 
