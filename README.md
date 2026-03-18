@@ -1,9 +1,7 @@
-https://github.com/user-attachments/assets/2146f460-5dfa-4929-b5b1-ceec6967ce39
-
-https://github.com/user-attachments/assets/1129999b-8840-4659-b1e4-8451dd6555b2
 #  Telegram Anime Bot — Setup Guide
 
 Bot Telegram untuk nonton anime via `ani-cli` dan `mpv` langsung dari laptop lo. Telegram jadi remote control.
+https://github.com/user-attachments/assets/1129999b-8840-4659-b1e4-8451dd6555b2
 
 ---
 
