@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/2146f460-5dfa-4929-b5b1-ceec6967ce39
+
+https://github.com/user-attachments/assets/1129999b-8840-4659-b1e4-8451dd6555b2
 #  Telegram Anime Bot — Setup Guide
 
 Bot Telegram untuk nonton anime via `ani-cli` dan `mpv` langsung dari laptop lo. Telegram jadi remote control.
@@ -220,6 +223,8 @@ Buka Telegram, chat dengan bot lo.
   → Bot tanya resolusi (360p / 480p / 720p / 1080p)
   → MPV kebuka di laptop lo
 ```
+
+
 
 ### Flow Cepat (Langsung Episode)
 
